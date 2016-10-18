@@ -1,5 +1,1 @@
-refactor: Refactored MyAgent2
-
-Refactored MyAgent2.java to achieve better performance.
-Placed tokens based on consecutive token streaks instead
-of overall token density.
+docs: Update README.md
